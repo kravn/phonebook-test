@@ -1,4 +1,4 @@
-# phonebook-test
+# Installation
 
 After cloning repo, run these commands below: 
 
