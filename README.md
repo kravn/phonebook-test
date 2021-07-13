@@ -18,3 +18,4 @@ Below are used to create this simple app
 - moment
 - vuetify
 
+Used json-server to fully imitate API CRUD request/response behavior
